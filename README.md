@@ -1,4 +1,4 @@
-# Movie-Controller - the assignment of Deep Learning and Its Applications
+# Control Youtube Through Hand Gestures - the assignment of Machine Learning Applications - Group 8 - MLA Subject
 
 ## 🌍  Overview
 
